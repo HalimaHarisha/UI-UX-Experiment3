@@ -1,6 +1,8 @@
 # UI-UX-Experiment3
-## NAME: SOUNDARYA J
-## REG NO: 212223220108
+## NAME: HALIMA HARISHA A
+
+## REG NO: 212224040094
+
 ## Aim:
 To perform a heuristic evaluation and comparative analysis of the Amazon.in and Flipkart homepages, identify usability issues, and suggest improvements to enhance user experience.
 
